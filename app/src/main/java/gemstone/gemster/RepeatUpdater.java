@@ -4,7 +4,7 @@ import android.os.Handler;
 import android.util.Log;
 
 /**
- * Created by WONSEOK OH on 2016-12-07.
+ * Created by WONSEOK OH on 2016-12-07...
  */
 
 public class RepeatUpdater {
